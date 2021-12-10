@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="group13Roster:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/group13Roster_jar</output-path>
+    <root id="archive" name="group13Roster.jar">
+      <element id="module-output" name="group13Roster" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CSE360-final-project/libs/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CSE360-final-project/libs/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CSE360-final-project/libs/swingx-1.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
